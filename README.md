@@ -94,4 +94,4 @@ Integrate regional transport comparisons
 
 Tawanda Colina Tsayang
 Business Intelligence & Data Analytics Student
-Focused on Data-Driven Strategy, AI, and Decision Intelligence
+Focused on Data-Driven Strategy, AI and Decision Intelligence
