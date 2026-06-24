@@ -78,8 +78,7 @@ Jupyter / Kaggle Notebooks
 Project Structure
 transport-trends-analysis
  ├── data/
- ├── notebooks/
- ├── images/
+ ├── notebook/
  ├── README.md
 Future Improvements
 Add forecasting models for transport demand
